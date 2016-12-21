@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 5b6b5ff570f25a445af07fdbaa128bb7
+timeCreated: 1444491457
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: groundForDigDug_0
+    21300002: groundForDigDug_1
+    21300004: groundForDigDug_2
+    21300006: groundForDigDug_3
+    21300008: groundForDigDug_4
+    21300010: groundForDigDug_5
+    21300012: groundForDigDug_6
+    21300014: groundForDigDug_7
+    21300016: groundForDigDug_8
+    21300018: groundForDigDug_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: groundForDigDug_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 394
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundForDigDug_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 394
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundForDigDug_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 394
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundForDigDug_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 395
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundForDigDug_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 399
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundForDigDug_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 376
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundForDigDug_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 376
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundForDigDug_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 375
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundForDigDug_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 375
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundForDigDug_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 378
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
